@@ -8,4 +8,4 @@ while countdown > 0:
     countdown -= 1
     time.sleep(1)
 
-print('B' + 'O' * 100 + 'M!!')
+print('B' + 'O' * 100 + 'M!!!')
